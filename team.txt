@@ -1,5 +1,5 @@
 Leader : Riza Agus Al Hasan
-Staff  : Baba Riza
-Admin  : Baba Agus
+Staff  : Baba Bubu
+Admin  : Bubu Amel
 Dev 1  : Baba Al
 Tester : Baba Hasan
