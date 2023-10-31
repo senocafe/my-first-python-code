@@ -8,3 +8,4 @@ Fighter  : Nami Sagara Biru
 new name member
 member lama boleh ikut
 
+
