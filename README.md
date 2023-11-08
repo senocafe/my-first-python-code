@@ -9,3 +9,8 @@ Happy Coding
 Best Regard, 
 
 Baba Riza
+
+##################
+
+# 1. Tugas Pertama 
+
