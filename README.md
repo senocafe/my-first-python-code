@@ -18,5 +18,5 @@ Buatlah kode dalam python untuk flow chart berikut ini
 
 # 2. Tugas Kedua - Perulangan dengan for dan while membaca buku dengan jumlah tertentu. contoh = 10
 Buatlah kode dalam python untuk flow chart berikut ini
-![img.png](img.png)
+![img_1.png](img_1.png)
 
