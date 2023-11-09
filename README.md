@@ -20,4 +20,8 @@ Buatlah kode dalam python untuk flow chart berikut ini
 Buatlah kode dalam python untuk flow chart berikut ini
 ![img.png](img.png)
 
+# 3. Tugas Ketiga - Perulangan dengan while dimana membaca buku sampai paham. contoh jumlah baca 2x jumlah buku.
+Buatlah kode dalam python untuk flow chart berikut ini
+![img_1.png](img_1.png)
+
 
