@@ -1,5 +1,5 @@
 """
-Program perulangan membaca buku dengan while undefined count
+Program perulangan membaca buku dengan while undefined count. jumlah baca buku  < 2x jumlah buku
 """
 
 jumlah_buku = 10
